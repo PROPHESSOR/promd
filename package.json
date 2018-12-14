@@ -1,6 +1,6 @@
 {
   "name": "promd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PROPHESSOR's Markdown to HTML converter template. Uses markdown-it",
   "main": "index.js",
   "scripts": {
