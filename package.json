@@ -27,5 +27,11 @@
   "bugs": {
     "url": "https://github.com/PROPHESSOR/promd/issues"
   },
-  "homepage": "https://github.com/PROPHESSOR/promd#readme"
+  "homepage": "https://github.com/PROPHESSOR/promd#readme",
+  "dependencies": {
+    "markdown-it": "^8.4.2",
+    "markdown-it-ins": "^2.0.0",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0"
+  }
 }
